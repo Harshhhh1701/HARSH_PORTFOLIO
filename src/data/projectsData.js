@@ -28,12 +28,13 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'MyChat',
-        projectDesc: 'An mobile interface for anonymous chating where there are many members in the same group',
-        tags: ['React Native', 'CSS', 'FireBase'],
-        code: 'https://github.com/Harshhhh1701/MyChat-App',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
+        projectName: 'EduHive',
+        projectDesc: 'A website for providing education courses for upgrading skills.',
+        tags: ['React JS', 'Tailwind CSS'],
+        code: 'https://github.com/Harshhhh1701/CODEFEST-THAPA',
+        demo: 'https://kaleidoscopic-crostata-168c7c.netlify.app/',
+        image: six
+        
     },
     {
         id: 4,
@@ -55,12 +56,12 @@ export const projectsData = [
     },
     {
         id: 6,
-        projectName: 'EduHive',
-        projectDesc: 'A website for providing education courses for upgrading skills.',
-        tags: ['React JS', 'Tailwind CSS'],
-        code: 'https://github.com/Harshhhh1701/CODEFEST-THAPA',
-        demo: 'https://kaleidoscopic-crostata-168c7c.netlify.app/',
-        image: six
+        projectName: 'MyChat',
+        projectDesc: 'An mobile interface for anonymous chating where there are many members in the same group',
+        tags: ['React Native', 'CSS', 'FireBase'],
+        code: 'https://github.com/Harshhhh1701/MyChat-App',
+        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        image: three
     }
 ]
 
