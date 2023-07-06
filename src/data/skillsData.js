@@ -5,7 +5,7 @@
     'Figma',
     'Javascript',
     'CSS',
-    'React','C++','C','Firebase','Next JS','Microsoft Office','Bootstrap','Git'
+    'React','C++','C','Firebase','Next JS','Microsoft Office','Bootstrap','Git','Typescript','Node JS','MongoDB','Tailwind'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

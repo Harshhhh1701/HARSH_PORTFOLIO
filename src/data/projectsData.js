@@ -2,8 +2,8 @@ import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
+import twelve from '../assets/svg/projects/twelve.svg'
+import ten from '../assets/svg/projects/ten.svg'
 
 
 
@@ -33,7 +33,7 @@ export const projectsData = [
         tags: ['React JS', 'Tailwind CSS'],
         code: 'https://github.com/Harshhhh1701/CODEFEST-THAPA',
         demo: 'https://kaleidoscopic-crostata-168c7c.netlify.app/',
-        image: six
+        image: three
         
     },
     {
@@ -52,7 +52,7 @@ export const projectsData = [
         tags: ['Python'],
         code: 'https://github.com/Harshhhh1701/Movie-recommendation-system',
         demo: 'https://github.com/Harshhhh1701/Movie-recommendation-system',
-        image: five
+        image: twelve
     },
     {
         id: 6,
@@ -61,7 +61,7 @@ export const projectsData = [
         tags: ['React Native', 'CSS', 'FireBase'],
         code: 'https://github.com/Harshhhh1701/MyChat-App',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
+        image: ten
     }
 ]
 

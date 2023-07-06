@@ -19,14 +19,14 @@ export const servicesData = [
     },
     {
         id: 2,
-        title: 'Content Writing',
+        title: 'UI/UX Development',
         icon: <BiPencil /> 
     },
-    {
-        id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
-    },
+    // {
+    //     id: 3,
+    //     title: 'Email Marketing',
+    //     icon: <AiOutlineMail />
+    // },
     // {
     //     id: 4,
     //     title: 'Internet Research',
@@ -34,9 +34,9 @@ export const servicesData = [
     // },
     {
         id: 5,
-        title: 'Tutoring',
+        title: 'Mobile Development',
         icon: <FaChalkboardTeacher />
-    }
+    },
 
     
     // {
@@ -54,11 +54,11 @@ export const servicesData = [
     //     title: '',
     //     icon: <FaVideo />
     // },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
+    {
+        id: 10,
+        title: 'Database Management', 
+        icon: <BsClipboardData />
+    },
     // {
     //     id: 11,
     //     title: 'Ebook Writing',

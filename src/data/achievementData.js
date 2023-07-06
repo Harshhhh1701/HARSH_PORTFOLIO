@@ -1,5 +1,5 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "Driven by a genuine passion for continuous learning and professional growth, I proactively pursued and successfully completed a series of certifications. These notable achievements stand as a testament to my commitment to acquiring expertise in relevant areas and expanding my knowledge horizons.",
     achievements : [
         {
             id : 1,

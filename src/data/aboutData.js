@@ -1,6 +1,6 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Harsh. I'm a web designer and developer based in India.",
-    description2: "I am searching for an opportunity to work as per my skillsets.I like listening to music while I am coding as it makes me productive. I love to learn and explore new arenas.",
+    title: "More About me",
+    description1: "My name is Harsh. I am a web designer and developer based in India.",
+    description2: "I am actively seeking a fulfilling opportunity that aligns with my skillsets. The fusion of music and coding fuels my productivity, while my innate curiosity drives me to explore new frontiers and continuously expand my knowledge.",
     image: 2
 }
