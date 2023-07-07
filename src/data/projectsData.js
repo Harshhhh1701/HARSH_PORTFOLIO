@@ -23,7 +23,7 @@ export const projectsData = [
         projectDesc: 'This project is a interface to provide laundry services to the users',
         tags: ['React Native', 'FireBase'],
         code: 'https://github.com/Harshhhh1701/Laundry-App',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://youtu.be/5bqrg9jxguk',
         image: two
     },
     {
