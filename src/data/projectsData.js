@@ -60,7 +60,7 @@ export const projectsData = [
         projectDesc: 'An mobile interface for anonymous chating where there are many members in the same group',
         tags: ['React Native', 'CSS', 'FireBase'],
         code: 'https://github.com/Harshhhh1701/MyChat-App',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://github.com/Harshhhh1701/MyChat-App',
         image: ten
     }
 ]
