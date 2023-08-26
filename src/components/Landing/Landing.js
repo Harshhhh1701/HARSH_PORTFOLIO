@@ -8,7 +8,7 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
 
-import photo from "E:/Harsh_Portfolio/src/harsh_photo.png";
+import photo from "../../assets/png/harsh_photo.png";
 import {
     FaTwitter,
     FaLinkedin,
