@@ -62,6 +62,14 @@ export const projectsData = [
         code: 'https://github.com/Harshhhh1701/MyChat-App',
         demo: 'https://github.com/Harshhhh1701/MyChat-App',
         image: ten
+    },{
+        id: 7,
+        projectName: 'CarHub',
+        projectDesc: 'A platform for users to dig up car models of the required features.',
+        tags: ['Next JS 13', 'Tailwind CSS',' TypeScript'],
+        code: 'https://github.com/Harshhhh1701/Car-Hub',
+        demo: 'https://car-hub-xi.vercel.app/',
+        image: four
     }
 ]
 
