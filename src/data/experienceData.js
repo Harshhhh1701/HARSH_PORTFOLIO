@@ -3,8 +3,8 @@ export const experienceData = [
         id: 1,
         company: 'FiveMinutes',
         jobtitle: 'Full Stack Developer',
-        startYear: 'April 2023',
-        endYear: 'July 2023'
+        startYear: 'May 2023',
+        endYear: 'October 2023'
     },
     {
         id: 2,
